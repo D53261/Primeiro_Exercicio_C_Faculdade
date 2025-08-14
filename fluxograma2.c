@@ -1,3 +1,5 @@
+// Calcular e mostrar a metade de um número qualquer informado pelo usuário
+
 #include <stdio.h>
 #include <stdlib.h>
 
