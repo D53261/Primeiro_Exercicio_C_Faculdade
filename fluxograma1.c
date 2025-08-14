@@ -1,3 +1,5 @@
+// Receber o valor do salário de um trabalhador, calcular e mostrar o valor diário deste salário
+
 #include <stdio.h>
 #include <stdlib.h>
 
