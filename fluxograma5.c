@@ -1,3 +1,5 @@
+// Calcular a área de um retângulo
+
 #include <stdio.h>
 #include <stdlib.h>
 
