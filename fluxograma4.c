@@ -1,3 +1,5 @@
+// Ler quatro números quaisquer e mostrar o resultado da média destes números
+
 #include <stdio.h>
 #include <stdlib.h>
 
