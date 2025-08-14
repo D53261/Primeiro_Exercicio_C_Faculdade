@@ -1,3 +1,5 @@
+// Ler três números quaisquer e mostrar o resultado da soma destes números
+
 #include <stdio.h>
 #include <stdlib.h>
 
